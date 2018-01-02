@@ -1,0 +1,16 @@
+THIS IS THE USER INTERFACE REQUIRED FOR THE HTML PAGE
+IM WRITING THIS UP JUST IN CASE THERE IS AN ERROR AND YOU HAVE DIFFICULTY READING IT ( THIS IS A CASE IF YOU INSPECT THE PAGE
+
+*** Terrain was adjusted to give the plane more distance to cover
+I've personally made it so holding the button allows you to see the effect more clearly
+Controls are:
+W - to go up ( CHANGES ALTITUDE)
+A - to the left
+D - to the right
+S - to go down ( CHANGES ALTITUDE)
+Q/E - Pitch ( HOLD FOR BEST EFFECT)
+T/Y - Yaw ( HOLD FOR BEST EFFECT)
+G/H - Roll ( HOLD FOR BEST EFFECT)
+F - speed up ( HOLD FOR BEST EFFECT)
+R - slowdown ( HOLD FOR BEST EFFECT)
+Z - halt
